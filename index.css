@@ -1,0 +1,55 @@
+*{
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+
+}
+.section{
+    border: 1px solid black;
+    background: rgb(108, 108, 136);
+    margin: 15em 5em 0 5em;
+    padding: 15px;
+    border-radius: 12px;
+}
+.star{
+    background: hsl(217, 12%, 63%);
+    padding: 10px;
+    width: 40px;
+    border-radius: 50%;
+}
+.content h1{
+    color: white;
+    padding: .5em 0;
+    font-size: 35px;
+}
+.content p{
+    color: white;
+    font-size: 25px;
+    padding: 5px;
+}
+.links{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 2em;
+    border: 1px solid green;
+}
+.links .numbers{
+    color: white;
+    width: 60px;
+    height: 60px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 50%;
+    background: black;
+}
+button{
+    margin-top: 2em;
+    padding: 10px;
+    width: 100%;
+    border-radius: 20px;
+    font-size: 30px;
+    background: goldenrod;
+}
