@@ -9,7 +9,7 @@ body{
 .section{
     border: 1px solid black;
     background: rgb(108, 108, 136);
-    margin: 15em 5em 0 5em;
+    margin: 5em 3em 0 3em;
     padding: 15px;
     border-radius: 12px;
 }
@@ -22,11 +22,11 @@ body{
 .content h1{
     color: white;
     padding: .5em 0;
-    font-size: 35px;
+    font-size: 30px;
 }
 .content p{
     color: white;
-    font-size: 25px;
+    font-size: 15px;
     padding: 5px;
 }
 .links{
@@ -38,9 +38,9 @@ body{
 }
 .links .numbers{
     color: white;
-    width: 60px;
-    height: 60px;
-    padding: 20px;
+    width: 40px;
+    height: 40px;
+    padding: 10px;
     text-align: center;
     border-radius: 50%;
     background: black;
