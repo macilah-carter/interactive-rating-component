@@ -14,11 +14,11 @@ body{
     border-radius: 12px;
 }
 .svg{
-    margin: 2.5em;
+    margin: 2em;
 }
 .notes h4{
     color: hsl(25, 97%, 53%);
-    margin: 0 2em;
+    margin: auto;
     text-align: center;
     width: 12em;
     height: 25px;
