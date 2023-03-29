@@ -34,6 +34,8 @@ body{
     flex-wrap: wrap;
     justify-content: space-around;
     margin-top: 2em;
+    padding: 5px;
+    
 }
 .links .numbers{
     color: hsl(216, 12%, 54%);
@@ -51,7 +53,7 @@ body{
     background: hsl(25, 97%, 53%);
     cursor: pointer;
 }
-button{
+.button{
     color: hsl(0, 0%, 100%);
     margin-top: 2em;
     padding: 10px;
@@ -65,7 +67,7 @@ a{
     text-decoration: none;
     color: hsl(0, 0%, 100%);
 }
-button:hover,.button:hover{
+.button:hover,.button:hover{
     color: hsl(25, 97%, 53%);
     background: hsl(0, 0%, 100%);
 
